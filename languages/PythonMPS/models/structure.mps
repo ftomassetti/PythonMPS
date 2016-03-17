@@ -18,7 +18,9 @@
         <child id="1071489727083" name="linkDeclaration" index="1TKVEi" />
         <child id="1071489727084" name="propertyDeclaration" index="1TKVEl" />
       </concept>
-      <concept id="1169125989551" name="jetbrains.mps.lang.structure.structure.InterfaceConceptDeclaration" flags="ig" index="PlHQZ" />
+      <concept id="1169125989551" name="jetbrains.mps.lang.structure.structure.InterfaceConceptDeclaration" flags="ig" index="PlHQZ">
+        <child id="1169127546356" name="extends" index="PrDN$" />
+      </concept>
       <concept id="1169127622168" name="jetbrains.mps.lang.structure.structure.InterfaceConceptReference" flags="ig" index="PrWs8">
         <reference id="1169127628841" name="intfc" index="PrY4T" />
       </concept>
@@ -422,43 +424,129 @@
   </node>
   <node concept="1TIwiD" id="4O4oHuBbTYZ">
     <property role="1pbfSe" value="197918058" />
-    <property role="TrG5h" value="PackagesImporter" />
-    <property role="3GE5qa" value="packages" />
+    <property role="TrG5h" value="ModulesImporter" />
+    <property role="3GE5qa" value="imported" />
     <property role="19KtqR" value="true" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="1TJgyj" id="4O4oHuBc2zc" role="1TKVEi">
       <property role="20lmBu" value="aggregation" />
-      <property role="20kJfa" value="packages" />
+      <property role="20kJfa" value="topLevelModules" />
       <property role="20lbJX" value="0..n" />
-      <ref role="20lvS9" node="4O4oHuBc2z9" resolve="Package" />
+      <ref role="20lvS9" node="4O4oHuBc2z9" resolve="ImportedModule" />
     </node>
   </node>
   <node concept="1TIwiD" id="4O4oHuBc2z9">
     <property role="1pbfSe" value="197882976" />
-    <property role="3GE5qa" value="packages" />
-    <property role="TrG5h" value="Package" />
+    <property role="3GE5qa" value="imported" />
+    <property role="TrG5h" value="ImportedModule" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="1TJgyj" id="4O4oHuBdHgC" role="1TKVEi">
       <property role="20lmBu" value="aggregation" />
       <property role="20kJfa" value="contents" />
       <property role="20lbJX" value="0..n" />
-      <ref role="20lvS9" node="4O4oHuBdHg_" resolve="PackageContent" />
+      <ref role="20lvS9" node="4O4oHuBdHg_" resolve="IModuleContent" />
+    </node>
+    <node concept="1TJgyj" id="4O4oHuBhRRe" role="1TKVEi">
+      <property role="20lmBu" value="aggregation" />
+      <property role="20kJfa" value="submodules" />
+      <property role="20lbJX" value="0..n" />
+      <ref role="20lvS9" node="4O4oHuBc2z9" resolve="ImportedModule" />
     </node>
     <node concept="1TJgyi" id="4O4oHuBdHgA" role="1TKVEl">
       <property role="TrG5h" value="imported" />
       <ref role="AX2Wp" to="tpck:fKAQMTB" resolve="boolean" />
     </node>
-    <node concept="PrWs8" id="4O4oHuBc2za" role="PzmwI">
-      <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
+    <node concept="1TJgyi" id="4O4oHuBidJh" role="1TKVEl">
+      <property role="TrG5h" value="open" />
+      <ref role="AX2Wp" to="tpck:fKAQMTB" resolve="boolean" />
     </node>
-    <node concept="PrWs8" id="4O4oHuBeJmY" role="PzmwI">
-      <ref role="PrY4T" node="4O4oHuBdHg_" resolve="PackageContent" />
+    <node concept="PrWs8" id="4O4oHuBhrkk" role="PzmwI">
+      <ref role="PrY4T" node="4O4oHuBhpTx" resolve="IModule" />
     </node>
   </node>
   <node concept="PlHQZ" id="4O4oHuBdHg_">
     <property role="1pbfSe" value="197445892" />
-    <property role="3GE5qa" value="packages" />
-    <property role="TrG5h" value="PackageContent" />
+    <property role="3GE5qa" value="interfaces" />
+    <property role="TrG5h" value="IModuleContent" />
+  </node>
+  <node concept="PlHQZ" id="4O4oHuBhpTx">
+    <property role="1pbfSe" value="196476616" />
+    <property role="TrG5h" value="IModule" />
+    <property role="3GE5qa" value="interfaces" />
+    <node concept="PrWs8" id="4O4oHuBhrh3" role="PrDN$">
+      <ref role="PrY4T" node="4O4oHuBhquY" resolve="IQNamedConcept" />
+    </node>
+  </node>
+  <node concept="PlHQZ" id="4O4oHuBhquY">
+    <property role="1pbfSe" value="196474219" />
+    <property role="3GE5qa" value="interfaces" />
+    <property role="TrG5h" value="IQNamedConcept" />
+    <node concept="PrWs8" id="4O4oHuBhquZ" role="PrDN$">
+      <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
+    </node>
+  </node>
+  <node concept="1TIwiD" id="4O4oHuBjzDZ">
+    <property role="1pbfSe" value="195912362" />
+    <property role="3GE5qa" value="imported" />
+    <property role="TrG5h" value="ImportedValue" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
+    <node concept="PrWs8" id="4O4oHuBjzE0" role="PzmwI">
+      <ref role="PrY4T" node="4O4oHuBdHg_" resolve="IModuleContent" />
+    </node>
+    <node concept="PrWs8" id="4O4oHuBjzE5" role="PzmwI">
+      <ref role="PrY4T" node="4O4oHuBhquY" resolve="IQNamedConcept" />
+    </node>
+  </node>
+  <node concept="1TIwiD" id="4O4oHuBjGMo">
+    <property role="1pbfSe" value="195874961" />
+    <property role="3GE5qa" value="imported" />
+    <property role="TrG5h" value="ImportedFunction" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
+    <node concept="1TJgyj" id="4O4oHuBjHiO" role="1TKVEi">
+      <property role="20lmBu" value="aggregation" />
+      <property role="20kJfa" value="params" />
+      <property role="20lbJX" value="0..n" />
+      <ref role="20lvS9" node="4O4oHuBjHgn" resolve="ImportedFunctionParam" />
+    </node>
+    <node concept="1TJgyi" id="4O4oHuBjGMr" role="1TKVEl">
+      <property role="TrG5h" value="builtin" />
+      <ref role="AX2Wp" to="tpck:fKAQMTB" resolve="boolean" />
+    </node>
+    <node concept="PrWs8" id="4O4oHuBjGMp" role="PzmwI">
+      <ref role="PrY4T" node="4O4oHuBdHg_" resolve="IModuleContent" />
+    </node>
+    <node concept="PrWs8" id="4O4oHuBjGMq" role="PzmwI">
+      <ref role="PrY4T" node="4O4oHuBhquY" resolve="IQNamedConcept" />
+    </node>
+  </node>
+  <node concept="1TIwiD" id="4O4oHuBjHgn">
+    <property role="1pbfSe" value="195873042" />
+    <property role="3GE5qa" value="imported" />
+    <property role="TrG5h" value="ImportedFunctionParam" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
+    <node concept="1TJgyi" id="4O4oHuBjHgq" role="1TKVEl">
+      <property role="TrG5h" value="varargs" />
+      <ref role="AX2Wp" to="tpck:fKAQMTB" resolve="boolean" />
+    </node>
+    <node concept="1TJgyi" id="4O4oHuBjHgs" role="1TKVEl">
+      <property role="TrG5h" value="optional" />
+      <ref role="AX2Wp" to="tpck:fKAQMTB" resolve="boolean" />
+    </node>
+    <node concept="PrWs8" id="4O4oHuBjHgo" role="PzmwI">
+      <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
+    </node>
+  </node>
+  <node concept="1TIwiD" id="4O4oHuBjRON">
+    <property role="1pbfSe" value="195829750" />
+    <property role="3GE5qa" value="imported" />
+    <property role="TrG5h" value="ImportedClass" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
+    <node concept="PrWs8" id="4O4oHuBjROO" role="PzmwI">
+      <ref role="PrY4T" node="4O4oHuBdHg_" resolve="IModuleContent" />
+    </node>
+    <node concept="PrWs8" id="4O4oHuBjROP" role="PzmwI">
+      <ref role="PrY4T" node="4O4oHuBhquY" resolve="IQNamedConcept" />
+    </node>
   </node>
 </model>
 

@@ -42,8 +42,23 @@ public class EditorAspectDescriptorImpl extends EditorAspectDescriptorBase {
       if (SConceptOperations.isExactly(SNodeOperations.asSConcept(cncpt), MetaAdapterFactory.getConcept(0x60430e8de6e24ceeL, 0x94b3c079312926d6L, 0x604e8d2cb3e47975L, "PythonMPS.structure.FunctionDefinition"))) {
         return Collections.<ConceptEditor>singletonList(new FunctionDefinition_Editor());
       }
+      if (SConceptOperations.isExactly(SNodeOperations.asSConcept(cncpt), MetaAdapterFactory.getConcept(0x60430e8de6e24ceeL, 0x94b3c079312926d6L, 0x4d0462d7a74f7d33L, "PythonMPS.structure.ImportedClass"))) {
+        return Collections.<ConceptEditor>singletonList(new ImportedClass_Editor());
+      }
+      if (SConceptOperations.isExactly(SNodeOperations.asSConcept(cncpt), MetaAdapterFactory.getConcept(0x60430e8de6e24ceeL, 0x94b3c079312926d6L, 0x4d0462d7a74ecc98L, "PythonMPS.structure.ImportedFunction"))) {
+        return Collections.<ConceptEditor>singletonList(new ImportedFunction_Editor());
+      }
+      if (SConceptOperations.isExactly(SNodeOperations.asSConcept(cncpt), MetaAdapterFactory.getConcept(0x60430e8de6e24ceeL, 0x94b3c079312926d6L, 0x4d0462d7a74ed417L, "PythonMPS.structure.ImportedFunctionParam"))) {
+        return Collections.<ConceptEditor>singletonList(new ImportedFunctionParam_Editor());
+      }
+      if (SConceptOperations.isExactly(SNodeOperations.asSConcept(cncpt), MetaAdapterFactory.getConcept(0x60430e8de6e24ceeL, 0x94b3c079312926d6L, 0x4d0462d7a73028c9L, "PythonMPS.structure.ImportedModule"))) {
+        return Collections.<ConceptEditor>singletonList(new ImportedModule_Editor());
+      }
       if (SConceptOperations.isExactly(SNodeOperations.asSConcept(cncpt), MetaAdapterFactory.getConcept(0x60430e8de6e24ceeL, 0x94b3c079312926d6L, 0x4d7f2c2bf32cba1bL, "PythonMPS.structure.ImportedSymbol"))) {
         return Collections.<ConceptEditor>singletonList(new ImportedSymbol_Editor());
+      }
+      if (SConceptOperations.isExactly(SNodeOperations.asSConcept(cncpt), MetaAdapterFactory.getConcept(0x60430e8de6e24ceeL, 0x94b3c079312926d6L, 0x4d0462d7a74e3a7fL, "PythonMPS.structure.ImportedValue"))) {
+        return Collections.<ConceptEditor>singletonList(new ImportedValue_Editor());
       }
       if (SConceptOperations.isExactly(SNodeOperations.asSConcept(cncpt), MetaAdapterFactory.getConcept(0x60430e8de6e24ceeL, 0x94b3c079312926d6L, 0x3a85516ddf10934dL, "PythonMPS.structure.IntegerLiteral"))) {
         return Collections.<ConceptEditor>singletonList(new IntegerLiteral_Editor());
@@ -57,11 +72,8 @@ public class EditorAspectDescriptorImpl extends EditorAspectDescriptorBase {
       if (SConceptOperations.isExactly(SNodeOperations.asSConcept(cncpt), MetaAdapterFactory.getConcept(0x60430e8de6e24ceeL, 0x94b3c079312926d6L, 0x5c44edd50d58f7d5L, "PythonMPS.structure.ModuleWithAlias"))) {
         return Collections.<ConceptEditor>singletonList(new ModuleWithAlias_Editor());
       }
-      if (SConceptOperations.isExactly(SNodeOperations.asSConcept(cncpt), MetaAdapterFactory.getConcept(0x60430e8de6e24ceeL, 0x94b3c079312926d6L, 0x4d0462d7a73028c9L, "PythonMPS.structure.Package"))) {
-        return Collections.<ConceptEditor>singletonList(new Package_Editor());
-      }
-      if (SConceptOperations.isExactly(SNodeOperations.asSConcept(cncpt), MetaAdapterFactory.getConcept(0x60430e8de6e24ceeL, 0x94b3c079312926d6L, 0x4d0462d7a72f9fbfL, "PythonMPS.structure.PackagesImporter"))) {
-        return Collections.<ConceptEditor>singletonList(new PackagesImporter_Editor());
+      if (SConceptOperations.isExactly(SNodeOperations.asSConcept(cncpt), MetaAdapterFactory.getConcept(0x60430e8de6e24ceeL, 0x94b3c079312926d6L, 0x4d0462d7a72f9fbfL, "PythonMPS.structure.ModulesImporter"))) {
+        return Collections.<ConceptEditor>singletonList(new ModulesImporter_Editor());
       }
       if (SConceptOperations.isExactly(SNodeOperations.asSConcept(cncpt), MetaAdapterFactory.getConcept(0x60430e8de6e24ceeL, 0x94b3c079312926d6L, 0x3e9f5109979e0423L, "PythonMPS.structure.ParamDecl"))) {
         return Collections.<ConceptEditor>singletonList(new ParamDecl_Editor());

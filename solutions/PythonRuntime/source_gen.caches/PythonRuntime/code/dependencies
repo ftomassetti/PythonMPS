@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dependenciesRoot>
-  <dependency className="PythonRuntime.code.PythonPackagesImporter" file="PythonPackagesImporter.java">
-    <classNode dependClassName="PythonMPS.behavior.Package__BehaviorDescriptor" />
+  <dependency className="PythonRuntime.code.PythonModulesImporter" file="PythonModulesImporter.java">
+    <classNode dependClassName="PythonMPS.behavior.IQNamedConcept__BehaviorDescriptor" />
+    <classNode dependClassName="PythonMPS.behavior.ImportedModule__BehaviorDescriptor" />
     <classNode dependClassName="java.io.BufferedReader" />
     <classNode dependClassName="java.io.File" />
     <classNode dependClassName="java.io.IOException" />

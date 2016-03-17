@@ -53,8 +53,217 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PackagesImporter" pinned="false" current-in-tab="false">
-        <entry file="mps://node://PythonMPS/PythonMPS.structure/PackagesImporter">
+      <file leaf-file-name="IModule" pinned="false" current-in-tab="false">
+        <entry file="mps://node://PythonMPS/PythonMPS.structure/IModule">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="449" />
+                    <property name="caretXRelative" value="8" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="Constant_gmtuod_a01c0" cellNumber="0" isInList="false">
+                      <node node_reference="r:4f9e7206-8aad-4b8d-9339-30f9a7a934af(PythonMPS.behavior)/5549669319191147617" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <collapsed />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319192024662" viewPositionX="0" viewPositionY="-7">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <collapsed />
+                <enabledHints>
+                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+                </enabledHints>
+              </inspectorMemento>
+              <node node_ref="r:4f9e7206-8aad-4b8d-9339-30f9a7a934af(PythonMPS.behavior)/5549669319191147590" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PythonModulesImporter" pinned="false" current-in-tab="false">
+        <entry file="mps://node://PythonRuntime/PythonRuntime.code/PythonModulesImporter">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento viewPositionX="0" viewPositionY="603">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="213" />
+                    <property name="caretXRelative" value="36" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="property_value" cellNumber="0" isInList="false">
+                      <node node_reference="r:610d00dd-c3e2-44f0-a5f1-492385c784ae(PythonRuntime.code)/5549669319192016141" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <collapsed />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319192024662" viewPositionX="0" viewPositionY="-7">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <collapsed />
+                <enabledHints>
+                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+                </enabledHints>
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ModulesImporter" pinned="false" current-in-tab="true">
+        <entry file="mps://node://PythonSandbox/PythonSandbox.example/ModulesImporter">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento viewPositionX="0" viewPositionY="15829">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                    <property name="caretX" value="0" />
+                    <property name="caretXRelative" value="-15" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="JComponent_rcto1q_a0" cellNumber="0" isInList="false">
+                      <node node_reference="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319192024662" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <collapsed />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319192024662" viewPositionX="0" viewPositionY="-7">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <collapsed />
+                <enabledHints>
+                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+                </enabledHints>
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImportedValue" pinned="false" current-in-tab="false">
+        <entry file="mps://node://PythonMPS/PythonMPS.structure/ImportedValue">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="75" />
+                    <property name="caretXRelative" value="4" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="ReadOnlyModelAccessor_mtiojs_a" cellNumber="0" isInList="false">
+                      <node node_reference="r:4406c616-c479-4065-9418-552dc16d0283(PythonMPS.editor)/5549669319191714608" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <collapsed />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319192024662" viewPositionX="0" viewPositionY="-7">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <collapsed />
+                <enabledHints>
+                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+                </enabledHints>
+              </inspectorMemento>
+              <node node_ref="r:4406c616-c479-4065-9418-552dc16d0283(PythonMPS.editor)/5549669319191714589" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImportedFunction" pinned="false" current-in-tab="false">
+        <entry file="mps://node://PythonMPS/PythonMPS.structure/ImportedFunction">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="selectionStart" value="0" />
+                    <property name="hasNonTrivialSelection" value="true" />
+                    <property name="caretX" value="307" />
+                    <property name="selectionEnd" value="1" />
+                    <property name="caretXRelative" value="12" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="property_text" cellNumber="0" isInList="false">
+                      <node node_reference="r:4406c616-c479-4065-9418-552dc16d0283(PythonMPS.editor)/5549669319191745246" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <collapsed />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319192024662" viewPositionX="0" viewPositionY="-7">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <collapsed />
+                <enabledHints>
+                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+                </enabledHints>
+              </inspectorMemento>
+              <node node_ref="r:4406c616-c479-4065-9418-552dc16d0283(PythonMPS.editor)/5549669319191743650" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImportedClass" pinned="false" current-in-tab="false">
+        <entry file="mps://node://PythonMPS/PythonMPS.structure/ImportedClass">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="171" />
+                    <property name="caretXRelative" value="36" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                      <node node_reference="r:4406c616-c479-4065-9418-552dc16d0283(PythonMPS.editor)/5549669319191861620" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <collapsed />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319192024662" viewPositionX="0" viewPositionY="-7">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <collapsed />
+                <enabledHints>
+                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+                </enabledHints>
+              </inspectorMemento>
+              <node node_ref="r:4406c616-c479-4065-9418-552dc16d0283(PythonMPS.editor)/5549669319191861599" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImportedFunctionParam" pinned="false" current-in-tab="false">
+        <entry file="mps://node://PythonMPS/PythonMPS.structure/ImportedFunctionParam">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
               <memento viewPositionX="0" viewPositionY="0">
@@ -65,7 +274,7 @@
                     <property name="caretXRelative" value="56" />
                     <property name="sideSelectDirection" value="NONE" />
                     <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
-                      <node node_reference="r:f5edf988-5f2c-41c2-aef5-31c199e7192b(PythonMPS.structure)/5549669319189700543" />
+                      <node node_reference="r:f5edf988-5f2c-41c2-aef5-31c199e7192b(PythonMPS.structure)/5549669319191745559" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -73,17 +282,8 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" viewPositionX="0" viewPositionY="-7">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                    <property name="caretX" value="0" />
-                    <property name="caretXRelative" value="-15" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="JComponent_gyx3vn_a0a" cellNumber="0" isInList="false">
-                      <node node_reference="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
+              <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319192024662" viewPositionX="0" viewPositionY="-7">
+                <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
                 <collapsed />
@@ -92,152 +292,24 @@
                   <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
                 </enabledHints>
               </inspectorMemento>
-              <node node_ref="r:f5edf988-5f2c-41c2-aef5-31c199e7192b(PythonMPS.structure)/5549669319189700543" />
+              <node node_ref="r:f5edf988-5f2c-41c2-aef5-31c199e7192b(PythonMPS.structure)/5549669319191745559" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PackagesImporter" pinned="false" current-in-tab="true">
-        <entry file="mps://node://PythonSandbox/PythonSandbox.example/PackagesImporter">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento viewPositionX="0" viewPositionY="6180">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="95" />
-                    <property name="caretXRelative" value="20" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                      <node node_reference="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" viewPositionX="0" viewPositionY="-7">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                    <property name="caretX" value="0" />
-                    <property name="caretXRelative" value="-15" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="JComponent_gyx3vn_a0a" cellNumber="0" isInList="false">
-                      <node node_reference="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-                <enabledHints>
-                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-                </enabledHints>
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PythonPackagesImporter" pinned="false" current-in-tab="false">
-        <entry file="mps://node://PythonRuntime/PythonRuntime.code/PythonPackagesImporter">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento viewPositionX="0" viewPositionY="111">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="39" />
-                    <property name="caretXRelative" value="8" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_fao2ea_c0" cellNumber="0" isInList="false">
-                      <node node_reference="r:610d00dd-c3e2-44f0-a5f1-492385c784ae(PythonRuntime.code)/5549669319190277610" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" viewPositionX="0" viewPositionY="-7">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                    <property name="caretX" value="0" />
-                    <property name="caretXRelative" value="-15" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="JComponent_gyx3vn_a0a" cellNumber="0" isInList="false">
-                      <node node_reference="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-                <enabledHints>
-                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-                </enabledHints>
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Process" pinned="false" current-in-tab="false">
-        <entry file="mps://node://JDK/java.lang@java_stub/Process">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                    <property name="caretX" value="0" />
-                    <property name="caretXRelative" value="-31" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Collection_359zr8_a" cellNumber="0" isInList="false">
-                      <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.lang(JDK/)/~Process.getInputStream%28%29:java.io.InputStream" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" viewPositionX="0" viewPositionY="-7">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                    <property name="caretX" value="0" />
-                    <property name="caretXRelative" value="-15" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="JComponent_gyx3vn_a0a" cellNumber="0" isInList="false">
-                      <node node_reference="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-                <enabledHints>
-                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-                </enabledHints>
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Package" pinned="false" current-in-tab="false">
-        <entry file="mps://node://PythonMPS/PythonMPS.structure/Package">
+      <file leaf-file-name="IQNamedConcept" pinned="false" current-in-tab="false">
+        <entry file="mps://node://PythonMPS/PythonMPS.structure/IQNamedConcept">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
               <memento viewPositionX="0" viewPositionY="0">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="61" />
-                    <property name="caretXRelative" value="14" />
+                    <property name="caretX" value="263" />
+                    <property name="caretXRelative" value="116" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="LEFT_COMMENT_ANCHOR" cellNumber="0" isInList="false">
-                      <node node_reference="r:4f9e7206-8aad-4b8d-9339-30f9a7a934af(PythonMPS.behavior)/5549669319190786272" />
+                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                      <node node_reference="r:4f9e7206-8aad-4b8d-9339-30f9a7a934af(PythonMPS.behavior)/5549669319191144385" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -245,17 +317,8 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" viewPositionX="0" viewPositionY="-7">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                    <property name="caretX" value="0" />
-                    <property name="caretXRelative" value="-15" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="JComponent_gyx3vn_a0a" cellNumber="0" isInList="false">
-                      <node node_reference="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
+              <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319192024662" viewPositionX="0" viewPositionY="-7">
+                <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
                 <collapsed />
@@ -264,7 +327,40 @@
                   <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
                 </enabledHints>
               </inspectorMemento>
-              <node node_ref="r:4f9e7206-8aad-4b8d-9339-30f9a7a934af(PythonMPS.behavior)/5549669319190172826" />
+              <node node_ref="r:4f9e7206-8aad-4b8d-9339-30f9a7a934af(PythonMPS.behavior)/5549669319191144385" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PythonFileImporter" pinned="false" current-in-tab="false">
+        <entry file="mps://node://PythonSandbox/PythonSandbox.example/PythonFileImporter">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                    <property name="caretX" value="0" />
+                    <property name="caretXRelative" value="-339" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="JComponent_wag2c1_b0a" cellNumber="0" isInList="false">
+                      <node node_reference="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/739123489811856383" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <collapsed />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319192024662" viewPositionX="0" viewPositionY="-7">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <collapsed />
+                <enabledHints>
+                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+                </enabledHints>
+              </inspectorMemento>
             </state>
           </provider>
         </entry>
@@ -288,17 +384,8 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" viewPositionX="0" viewPositionY="-7">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                    <property name="caretX" value="0" />
-                    <property name="caretXRelative" value="-15" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="JComponent_gyx3vn_a0a" cellNumber="0" isInList="false">
-                      <node node_reference="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
+              <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319192024662" viewPositionX="0" viewPositionY="-7">
+                <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
                 <collapsed />
@@ -307,138 +394,6 @@
                   <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
                 </enabledHints>
               </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PackageContent" pinned="false" current-in-tab="false">
-        <entry file="mps://node://PythonMPS/PythonMPS.structure/PackageContent">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="119" />
-                    <property name="caretXRelative" value="88" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_7v1nzk_h1c0" cellNumber="0" isInList="false">
-                      <node node_reference="r:f5edf988-5f2c-41c2-aef5-31c199e7192b(PythonMPS.structure)/5549669319190172709" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" viewPositionX="0" viewPositionY="-7">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                    <property name="caretX" value="0" />
-                    <property name="caretXRelative" value="-15" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="JComponent_gyx3vn_a0a" cellNumber="0" isInList="false">
-                      <node node_reference="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-                <enabledHints>
-                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-                </enabledHints>
-              </inspectorMemento>
-              <node node_ref="r:f5edf988-5f2c-41c2-aef5-31c199e7192b(PythonMPS.structure)/5549669319190172709" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ParamDecl" pinned="false" current-in-tab="false">
-        <entry file="mps://node://PythonMPS/PythonMPS.structure/ParamDecl">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="99" />
-                    <property name="caretXRelative" value="36" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                      <node node_reference="r:4406c616-c479-4065-9418-552dc16d0283(PythonMPS.editor)/4512414453288797229" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" viewPositionX="0" viewPositionY="-7">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                    <property name="caretX" value="0" />
-                    <property name="caretXRelative" value="-15" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="JComponent_gyx3vn_a0a" cellNumber="0" isInList="false">
-                      <node node_reference="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-                <enabledHints>
-                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-                </enabledHints>
-              </inspectorMemento>
-              <node node_ref="r:4406c616-c479-4065-9418-552dc16d0283(PythonMPS.editor)/4512414453288797227" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExpressionStatement" pinned="false" current-in-tab="false">
-        <entry file="mps://node://PythonMPS/PythonMPS.structure/ExpressionStatement">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="71" />
-                    <property name="caretXRelative" value="56" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
-                      <node node_reference="r:f5edf988-5f2c-41c2-aef5-31c199e7192b(PythonMPS.structure)/5584230630237806226" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" viewPositionX="0" viewPositionY="-7">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                    <property name="caretX" value="0" />
-                    <property name="caretXRelative" value="-15" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="JComponent_gyx3vn_a0a" cellNumber="0" isInList="false">
-                      <node node_reference="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-                <enabledHints>
-                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-                </enabledHints>
-              </inspectorMemento>
-              <node node_ref="r:f5edf988-5f2c-41c2-aef5-31c199e7192b(PythonMPS.structure)/5584230630237806226" />
             </state>
           </provider>
         </entry>
@@ -672,16 +627,18 @@
               <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="60430e8d-e6e2-4cee-94b3-c079312926d6(PythonMPS)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:4406c616-c479-4065-9418-552dc16d0283(PythonMPS.editor) in IdeaFile{file:///home/federico/MPSProjects/Python/languages/PythonMPS/models/editor.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="packages" />
+              <option name="myItemId" value="r:f5edf988-5f2c-41c2-aef5-31c199e7192b(PythonMPS.structure) in IdeaFile{file:///home/federico/MPSProjects/Python/languages/PythonMPS/models/structure.mps}" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -692,6 +649,16 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="$PROJECT_DIR$/solutions/PythonSandbox/PythonSandbox.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="60430e8d-e6e2-4cee-94b3-c079312926d6(PythonMPS)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -710,6 +677,32 @@
               <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="$PROJECT_DIR$/solutions/PythonSandbox/PythonSandbox.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonSandbox" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="$PROJECT_DIR$/solutions/PythonRuntime/PythonRuntime.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonRuntime" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:610d00dd-c3e2-44f0-a5f1-492385c784ae(PythonRuntime.code) in IdeaFile{file:///home/federico/MPSProjects/Python/solutions/PythonRuntime/models/PythonRuntime/code.mps}" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -721,21 +714,7 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:4406c616-c479-4065-9418-552dc16d0283(PythonMPS.editor) in IdeaFile{file:///home/federico/MPSProjects/Python/languages/PythonMPS/models/editor.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/solutions/PythonSandbox/PythonSandbox.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PythonSandbox" />
+              <option name="myItemId" value="r:4f9e7206-8aad-4b8d-9339-30f9a7a934af(PythonMPS.behavior) in IdeaFile{file:///home/federico/MPSProjects/Python/languages/PythonMPS/models/behavior.mps}" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -770,22 +749,8 @@
               <option name="myItemId" value="r:f5edf988-5f2c-41c2-aef5-31c199e7192b(PythonMPS.structure) in IdeaFile{file:///home/federico/MPSProjects/Python/languages/PythonMPS/models/structure.mps}" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/solutions/PythonRuntime/PythonRuntime.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PythonRuntime" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:610d00dd-c3e2-44f0-a5f1-492385c784ae(PythonRuntime.code) in IdeaFile{file:///home/federico/MPSProjects/Python/solutions/PythonRuntime/models/PythonRuntime/code.mps}" />
+              <option name="myItemId" value="imported" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -799,21 +764,11 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:f5edf988-5f2c-41c2-aef5-31c199e7192b(PythonMPS.structure) in IdeaFile{file:///home/federico/MPSProjects/Python/languages/PythonMPS/models/structure.mps}" />
+              <option name="myItemId" value="r:4f9e7206-8aad-4b8d-9339-30f9a7a934af(PythonMPS.behavior) in IdeaFile{file:///home/federico/MPSProjects/Python/languages/PythonMPS/models/behavior.mps}" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="packages" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="60430e8d-e6e2-4cee-94b3-c079312926d6(PythonMPS)" />
+              <option name="myItemId" value="imported" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -837,7 +792,19 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="60430e8d-e6e2-4cee-94b3-c079312926d6(PythonMPS)" />
+              <option name="myItemId" value="$PROJECT_DIR$/solutions/PythonSandbox/PythonSandbox.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonSandbox" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example) in IdeaFile{file:///home/federico/MPSProjects/Python/solutions/PythonSandbox/models/PythonSandbox/example.mps}" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="5549669319191351976" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </SELECTED>
@@ -1000,7 +967,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1983" height="1156" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744187" sideWeight="0.46545637" order="25" side_tool="false" content_ui="tabs" />
@@ -1011,7 +978,7 @@
       <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Module Dependencies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspector" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45209303" sideWeight="0.56429654" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45209303" sideWeight="0.56429654" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293023" sideWeight="0.498235" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1278,161 +1245,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="mps://node://PythonMPS/PythonMPS.structure/Assignment">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="243" />
-                <property name="caretXRelative" value="8" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_6h6dhy_e2a" cellNumber="0" isInList="false">
-                  <node node_reference="r:f5edf988-5f2c-41c2-aef5-31c199e7192b(PythonMPS.structure)/5584230630237787996" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5584230630237820278" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:f5edf988-5f2c-41c2-aef5-31c199e7192b(PythonMPS.structure)/5584230630237714957" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://PythonMPS/PythonMPS.structure/StringLiteral">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="131" />
-                <property name="caretXRelative" value="28" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:4406c616-c479-4065-9418-552dc16d0283(PythonMPS.editor)/5584230630237814659" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:4406c616-c479-4065-9418-552dc16d0283(PythonMPS.editor)/5584230630237814625" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://PythonRuntime/org.antlr.runtime@java_stub/ANTLRReaderStream">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="15" />
-                <property name="caretXRelative" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="ALIAS_EDITOR_COMPONENT" cellNumber="0" isInList="false">
-                  <node node_reference="b5c81f5c-7a57-46fd-b43a-d92323a1ee11/java:org.antlr.runtime(PythonRuntime/)/739123489811539806" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:f5edf988-5f2c-41c2-aef5-31c199e7192b(PythonMPS.structure)/5584230630237714952" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://JDK/javax.swing@java_stub/AbstractButton">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="1078">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                <property name="caretX" value="0" />
-                <property name="caretXRelative" value="-31" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Collection_359zr8_a" cellNumber="0" isInList="false">
-                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:javax.swing(JDK/)/~AbstractButton.addActionListener%28java.awt.event.ActionListener%29:void" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:4f9e7206-8aad-4b8d-9339-30f9a7a934af(PythonMPS.behavior)/739123489811712213" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://JDK/javax.swing@java_stub/Action">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="15" />
-                <property name="caretXRelative" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="ALIAS_EDITOR_COMPONENT" cellNumber="0" isInList="false">
-                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:javax.swing(JDK/)/4949721264450469042" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:610d00dd-c3e2-44f0-a5f1-492385c784ae(PythonRuntime.code)/4949721264450706774" viewPositionX="0" viewPositionY="-7">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                <property name="caretX" value="0" />
-                <property name="caretXRelative" value="-15" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Collection_uj0cpq_a_0" cellNumber="0" isInList="false">
-                  <node node_reference="r:610d00dd-c3e2-44f0-a5f1-492385c784ae(PythonRuntime.code)/4949721264450706774" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/languages/PythonMPS/source_gen/PythonMPS/Language.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2205,37 +2017,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://PythonSandbox/PythonSandbox.example/PythonFileImporter">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                <property name="caretX" value="0" />
-                <property name="caretXRelative" value="-339" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="JComponent_wag2c1_b0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/739123489811856383" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:8713b3b3-b1e3-479d-b55a-adc38f2a8697(PythonMPS.actions)/4216866158438023094" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-            </enabledHints>
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://node://PythonMPS/PythonMPS.structure/Statement">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
@@ -2629,17 +2410,8 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" viewPositionX="0" viewPositionY="-7">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                <property name="caretX" value="0" />
-                <property name="caretXRelative" value="-15" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="JComponent_gyx3vn_a0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
+          <inspectorMemento currentlyEditedNode="r:f5edf988-5f2c-41c2-aef5-31c199e7192b(PythonMPS.structure)/5549669319191141985" viewPositionX="0" viewPositionY="-7">
+            <selectionStack />
             <errorMarkers />
             <transactionalProperties />
             <collapsed />
@@ -2671,17 +2443,8 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" viewPositionX="0" viewPositionY="-7">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                <property name="caretX" value="0" />
-                <property name="caretXRelative" value="-15" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="JComponent_gyx3vn_a0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
+          <inspectorMemento currentlyEditedNode="r:610d00dd-c3e2-44f0-a5f1-492385c784ae(PythonRuntime.code)/5549669319189923859" viewPositionX="0" viewPositionY="-7">
+            <selectionStack />
             <errorMarkers />
             <transactionalProperties />
             <collapsed />
@@ -2694,18 +2457,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://PythonMPS/PythonMPS.structure/PackagesImporter">
+    <entry file="mps://node://PythonMPS/PythonMPS.structure/ModulesImporter">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
           <memento viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="71" />
-                <property name="caretXRelative" value="56" />
+                <property name="caretX" value="151" />
+                <property name="caretXRelative" value="120" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:f5edf988-5f2c-41c2-aef5-31c199e7192b(PythonMPS.structure)/5549669319189700543" />
+                <cellInfo cellId="role" cellNumber="0" isInList="false">
+                  <node node_reference="r:f5edf988-5f2c-41c2-aef5-31c199e7192b(PythonMPS.structure)/5549669319189735628" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -2713,17 +2476,8 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" viewPositionX="0" viewPositionY="-7">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                <property name="caretX" value="0" />
-                <property name="caretXRelative" value="-15" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="JComponent_gyx3vn_a0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
+          <inspectorMemento currentlyEditedNode="r:610d00dd-c3e2-44f0-a5f1-492385c784ae(PythonRuntime.code)/5549669319189923859" viewPositionX="0" viewPositionY="-7">
+            <selectionStack />
             <errorMarkers />
             <transactionalProperties />
             <collapsed />
@@ -2736,18 +2490,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://PythonMPS/PythonMPS.structure/Package">
+    <entry file="mps://node://PythonMPS/PythonMPS.structure/ImportedModule">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
+          <memento viewPositionX="0" viewPositionY="1027">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="61" />
-                <property name="caretXRelative" value="14" />
+                <property name="caretX" value="39" />
+                <property name="caretXRelative" value="8" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="LEFT_COMMENT_ANCHOR" cellNumber="0" isInList="false">
-                  <node node_reference="r:4f9e7206-8aad-4b8d-9339-30f9a7a934af(PythonMPS.behavior)/5549669319190786272" />
+                <cellInfo cellId="Constant_fao2ea_c0" cellNumber="0" isInList="false">
+                  <node node_reference="r:4f9e7206-8aad-4b8d-9339-30f9a7a934af(PythonMPS.behavior)/5549669319191147811" />
+                </cellInfo>
+              </stackElement>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="selectionStart" value="0" />
+                <property name="hasNonTrivialSelection" value="true" />
+                <property name="caretX" value="39" />
+                <property name="selectionEnd" value="1" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_fao2ea_c0" cellNumber="0" isInList="false">
+                  <node node_reference="r:4f9e7206-8aad-4b8d-9339-30f9a7a934af(PythonMPS.behavior)/5549669319191147811" />
+                </cellInfo>
+              </stackElement>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretX" value="0" />
+                <property name="caretXRelative" value="-31" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:4f9e7206-8aad-4b8d-9339-30f9a7a934af(PythonMPS.behavior)/5549669319191147811" />
+                </cellInfo>
+              </stackElement>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretX" value="0" />
+                <property name="caretXRelative" value="-31" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Collection_gmtuod_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:4f9e7206-8aad-4b8d-9339-30f9a7a934af(PythonMPS.behavior)/5549669319191147811" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -2755,17 +2536,8 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" viewPositionX="0" viewPositionY="-7">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                <property name="caretX" value="0" />
-                <property name="caretXRelative" value="-15" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="JComponent_gyx3vn_a0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
+          <inspectorMemento currentlyEditedNode="r:4406c616-c479-4065-9418-552dc16d0283(PythonMPS.editor)/5549669319191714608" viewPositionX="0" viewPositionY="-7">
+            <selectionStack />
             <errorMarkers />
             <transactionalProperties />
             <collapsed />
@@ -2775,88 +2547,6 @@
             </enabledHints>
           </inspectorMemento>
           <node node_ref="r:4f9e7206-8aad-4b8d-9339-30f9a7a934af(PythonMPS.behavior)/5549669319190172826" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://PythonRuntime/PythonRuntime.code/PythonPackagesImporter">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="111">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="39" />
-                <property name="caretXRelative" value="8" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_fao2ea_c0" cellNumber="0" isInList="false">
-                  <node node_reference="r:610d00dd-c3e2-44f0-a5f1-492385c784ae(PythonRuntime.code)/5549669319190277610" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" viewPositionX="0" viewPositionY="-7">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                <property name="caretX" value="0" />
-                <property name="caretXRelative" value="-15" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="JComponent_gyx3vn_a0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-            </enabledHints>
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://PythonSandbox/PythonSandbox.example/PackagesImporter">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="6180">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="95" />
-                <property name="caretXRelative" value="20" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" viewPositionX="0" viewPositionY="-7">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                <property name="caretX" value="0" />
-                <property name="caretXRelative" value="-15" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="JComponent_gyx3vn_a0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-            </enabledHints>
-          </inspectorMemento>
         </state>
       </provider>
     </entry>
@@ -2878,17 +2568,8 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" viewPositionX="0" viewPositionY="-7">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                <property name="caretX" value="0" />
-                <property name="caretXRelative" value="-15" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="JComponent_gyx3vn_a0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
+          <inspectorMemento currentlyEditedNode="r:4f9e7206-8aad-4b8d-9339-30f9a7a934af(PythonMPS.behavior)/5549669319191788643" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
             <errorMarkers />
             <transactionalProperties />
             <collapsed />
@@ -2900,17 +2581,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://PythonMPS/PythonMPS.structure/PackageContent">
+    <entry file="mps://node://PythonMPS/PythonMPS.structure/IModuleContent">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
           <memento viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="119" />
-                <property name="caretXRelative" value="88" />
+                <property name="caretX" value="31" />
+                <property name="caretXRelative" value="0" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_7v1nzk_h1c0" cellNumber="0" isInList="false">
+                <cellInfo cellId="emptyRefPlaceHolder" cellNumber="0" isInList="false">
                   <node node_reference="r:f5edf988-5f2c-41c2-aef5-31c199e7192b(PythonMPS.structure)/5549669319190172709" />
                 </cellInfo>
               </stackElement>
@@ -2919,17 +2600,8 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" viewPositionX="0" viewPositionY="-7">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                <property name="caretX" value="0" />
-                <property name="caretXRelative" value="-15" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="JComponent_gyx3vn_a0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
+          <inspectorMemento currentlyEditedNode="r:4f9e7206-8aad-4b8d-9339-30f9a7a934af(PythonMPS.behavior)/5549669319191788857" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
             <errorMarkers />
             <transactionalProperties />
             <collapsed />
@@ -2960,17 +2632,302 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" viewPositionX="0" viewPositionY="-7">
+          <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319192024662" viewPositionX="0" viewPositionY="-7">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+            </enabledHints>
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://PythonMPS/PythonMPS.structure/IModule">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="449" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_gmtuod_a01c0" cellNumber="0" isInList="false">
+                  <node node_reference="r:4f9e7206-8aad-4b8d-9339-30f9a7a934af(PythonMPS.behavior)/5549669319191147617" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319192024662" viewPositionX="0" viewPositionY="-7">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+            </enabledHints>
+          </inspectorMemento>
+          <node node_ref="r:4f9e7206-8aad-4b8d-9339-30f9a7a934af(PythonMPS.behavior)/5549669319191147590" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://PythonMPS/PythonMPS.structure/IQNamedConcept">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="263" />
+                <property name="caretXRelative" value="116" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:4f9e7206-8aad-4b8d-9339-30f9a7a934af(PythonMPS.behavior)/5549669319191144385" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319192024662" viewPositionX="0" viewPositionY="-7">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+            </enabledHints>
+          </inspectorMemento>
+          <node node_ref="r:4f9e7206-8aad-4b8d-9339-30f9a7a934af(PythonMPS.behavior)/5549669319191144385" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://PythonSandbox/PythonSandbox.example/PythonFileImporter">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretX" value="0" />
+                <property name="caretXRelative" value="-339" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="JComponent_wag2c1_b0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/739123489811856383" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319192024662" viewPositionX="0" viewPositionY="-7">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+            </enabledHints>
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://PythonSandbox/PythonSandbox.example/ModulesImporter">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="15829">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
                 <property name="caretX" value="0" />
                 <property name="caretXRelative" value="-15" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="JComponent_gyx3vn_a0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319190525923" />
+                <cellInfo cellId="JComponent_rcto1q_a0" cellNumber="0" isInList="false">
+                  <node node_reference="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319192024662" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319192024662" viewPositionX="0" viewPositionY="-7">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+            </enabledHints>
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://PythonMPS/PythonMPS.structure/ImportedValue">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="75" />
+                <property name="caretXRelative" value="4" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="ReadOnlyModelAccessor_mtiojs_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:4406c616-c479-4065-9418-552dc16d0283(PythonMPS.editor)/5549669319191714608" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319192024662" viewPositionX="0" viewPositionY="-7">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+            </enabledHints>
+          </inspectorMemento>
+          <node node_ref="r:4406c616-c479-4065-9418-552dc16d0283(PythonMPS.editor)/5549669319191714589" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://PythonMPS/PythonMPS.structure/ImportedFunction">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="selectionStart" value="0" />
+                <property name="hasNonTrivialSelection" value="true" />
+                <property name="caretX" value="307" />
+                <property name="selectionEnd" value="1" />
+                <property name="caretXRelative" value="12" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_text" cellNumber="0" isInList="false">
+                  <node node_reference="r:4406c616-c479-4065-9418-552dc16d0283(PythonMPS.editor)/5549669319191745246" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319192024662" viewPositionX="0" viewPositionY="-7">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+            </enabledHints>
+          </inspectorMemento>
+          <node node_ref="r:4406c616-c479-4065-9418-552dc16d0283(PythonMPS.editor)/5549669319191743650" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://PythonMPS/PythonMPS.structure/ImportedFunctionParam">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="71" />
+                <property name="caretXRelative" value="56" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:f5edf988-5f2c-41c2-aef5-31c199e7192b(PythonMPS.structure)/5549669319191745559" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319192024662" viewPositionX="0" viewPositionY="-7">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+            </enabledHints>
+          </inspectorMemento>
+          <node node_ref="r:f5edf988-5f2c-41c2-aef5-31c199e7192b(PythonMPS.structure)/5549669319191745559" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://PythonMPS/PythonMPS.structure/ImportedClass">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="171" />
+                <property name="caretXRelative" value="36" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:4406c616-c479-4065-9418-552dc16d0283(PythonMPS.editor)/5549669319191861620" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319192024662" viewPositionX="0" viewPositionY="-7">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+            </enabledHints>
+          </inspectorMemento>
+          <node node_ref="r:4406c616-c479-4065-9418-552dc16d0283(PythonMPS.editor)/5549669319191861599" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://PythonRuntime/PythonRuntime.code/PythonModulesImporter">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="603">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="213" />
+                <property name="caretXRelative" value="36" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_value" cellNumber="0" isInList="false">
+                  <node node_reference="r:610d00dd-c3e2-44f0-a5f1-492385c784ae(PythonRuntime.code)/5549669319192016141" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:df667c57-a175-4bcc-9b21-0e64aa1722d3(PythonSandbox.example)/5549669319192024662" viewPositionX="0" viewPositionY="-7">
+            <selectionStack />
             <errorMarkers />
             <transactionalProperties />
             <collapsed />
