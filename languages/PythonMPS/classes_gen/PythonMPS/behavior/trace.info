@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <concept fqn="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.SwitchStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ThrowStatement" />
+  <root>
+    <file name="Alias_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="PythonMPS.behavior.Alias_BehaviorDescriptor" />
+    </file>
+    <file name="ArrayAccess_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="PythonMPS.behavior.ArrayAccess_BehaviorDescriptor" />
+    </file>
+    <file name="Assignment_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="PythonMPS.behavior.Assignment_BehaviorDescriptor" />
+    </file>
+    <file name="BehaviorAspectDescriptor.java">
+      <unit at="14,0,42,0" name="PythonMPS.behavior.BehaviorAspectDescriptor" />
+    </file>
+    <file name="BooleanLiteral_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="PythonMPS.behavior.BooleanLiteral_BehaviorDescriptor" />
+    </file>
+    <file name="ClassDefinition_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="PythonMPS.behavior.ClassDefinition_BehaviorDescriptor" />
+    </file>
+    <file name="EmptyLine_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="PythonMPS.behavior.EmptyLine_BehaviorDescriptor" />
+    </file>
+    <file name="ExpressionStatement_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="PythonMPS.behavior.ExpressionStatement_BehaviorDescriptor" />
+    </file>
+    <file name="Expression_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="PythonMPS.behavior.Expression_BehaviorDescriptor" />
+    </file>
+    <file name="FieldAccess_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="PythonMPS.behavior.FieldAccess_BehaviorDescriptor" />
+    </file>
+    <file name="FileElement_BehaviorDescriptor.java">
+      <unit at="11,0,14,0" name="PythonMPS.behavior.FileElement_BehaviorDescriptor" />
+    </file>
+    <file name="FileImport_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="PythonMPS.behavior.FileImport_BehaviorDescriptor" />
+    </file>
+    <file name="FunctionCall_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="PythonMPS.behavior.FunctionCall_BehaviorDescriptor" />
+    </file>
+    <file name="FunctionDefinition_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="PythonMPS.behavior.FunctionDefinition_BehaviorDescriptor" />
+    </file>
+    <file name="ImportStatement_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="PythonMPS.behavior.ImportStatement_BehaviorDescriptor" />
+    </file>
+    <file name="ImportedSymbol_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="PythonMPS.behavior.ImportedSymbol_BehaviorDescriptor" />
+    </file>
+    <file name="IntegerLiteral_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="PythonMPS.behavior.IntegerLiteral_BehaviorDescriptor" />
+    </file>
+    <file name="Literal_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="PythonMPS.behavior.Literal_BehaviorDescriptor" />
+    </file>
+    <file name="ModuleSection_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="PythonMPS.behavior.ModuleSection_BehaviorDescriptor" />
+    </file>
+    <file name="ModuleWithAlias_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="PythonMPS.behavior.ModuleWithAlias_BehaviorDescriptor" />
+    </file>
+    <file name="Module_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="PythonMPS.behavior.Module_BehaviorDescriptor" />
+    </file>
+    <file name="PackageContent_BehaviorDescriptor.java">
+      <unit at="11,0,14,0" name="PythonMPS.behavior.PackageContent_BehaviorDescriptor" />
+    </file>
+    <file name="Package_BehaviorDescriptor.java">
+      <unit at="14,0,26,0" name="PythonMPS.behavior.Package_BehaviorDescriptor" />
+    </file>
+    <file name="PackagesImporter_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="PythonMPS.behavior.PackagesImporter_BehaviorDescriptor" />
+    </file>
+    <file name="ParamDecl_BehaviorDescriptor.java">
+      <unit at="14,0,26,0" name="PythonMPS.behavior.ParamDecl_BehaviorDescriptor" />
+    </file>
+    <file name="ParamRef_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="PythonMPS.behavior.ParamRef_BehaviorDescriptor" />
+    </file>
+    <file name="PythonFileImporter_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="PythonMPS.behavior.PythonFileImporter_BehaviorDescriptor" />
+    </file>
+    <file name="PythonFile_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="PythonMPS.behavior.PythonFile_BehaviorDescriptor" />
+    </file>
+    <file name="Statement_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="PythonMPS.behavior.Statement_BehaviorDescriptor" />
+    </file>
+    <file name="StringLiteral_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="PythonMPS.behavior.StringLiteral_BehaviorDescriptor" />
+    </file>
+    <file name="SymbolImport_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="PythonMPS.behavior.SymbolImport_BehaviorDescriptor" />
+    </file>
+    <file name="UnrecognizedStatement_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="PythonMPS.behavior.UnrecognizedStatement_BehaviorDescriptor" />
+    </file>
+    <file name="VarDecl_BehaviorDescriptor.java">
+      <unit at="13,0,25,0" name="PythonMPS.behavior.VarDecl_BehaviorDescriptor" />
+    </file>
+    <file name="VarReference_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="PythonMPS.behavior.VarReference_BehaviorDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:4f9e7206-8aad-4b8d-9339-30f9a7a934af(PythonMPS.behavior)/5549669319190172826">
+    <file name="Package_Behavior.java">
+      <node id="5549669319190172826" at="13,82,14,75" concept="2" />
+      <node id="5549669319190172826" at="16,83,17,81" concept="6" />
+      <node id="5549669319190172826" at="19,76,20,77" concept="6" />
+      <node id="5549669319190172826" at="22,95,23,87" concept="6" />
+      <node id="5549669319190172826" at="25,103,26,95" concept="6" />
+      <node id="5549669319190172826" at="28,110,29,102" concept="6" />
+      <node id="5549669319190172826" at="31,103,32,95" concept="6" />
+      <node id="5549669319190172826" at="34,105,35,91" concept="2" />
+      <node id="5549669319190172826" at="37,97,38,83" concept="2" />
+      <node id="5549669319190172826" at="13,0,16,0" concept="9" trace="call_importContents_5549669319190172829#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="5549669319190172826" at="16,0,19,0" concept="9" trace="call_qualifiedName_5549669319190582895#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="5549669319190172826" at="19,0,22,0" concept="9" trace="call_nbOfLevel_5549669319190682782#(Lorg/jetbrains/mps/openapi/model/SNode;)I" />
+      <node id="5549669319190172826" at="22,0,25,0" concept="9" trace="call_getSubpackage_5549669319190717547#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)Lorg/jetbrains/mps/openapi/model/SNode;" />
+      <node id="5549669319190172826" at="25,0,28,0" concept="9" trace="call_getSubpackageByQname_5549669319190908667#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)Lorg/jetbrains/mps/openapi/model/SNode;" />
+      <node id="5549669319190172826" at="28,0,31,0" concept="9" trace="call_getOrCreateSubpackageByQname_5549669319190714480#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)Lorg/jetbrains/mps/openapi/model/SNode;" />
+      <node id="5549669319190172826" at="31,0,34,0" concept="9" trace="call_getOrCreateSubpackage_5549669319191072069#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)Lorg/jetbrains/mps/openapi/model/SNode;" />
+      <node id="5549669319190172826" at="34,0,37,0" concept="9" trace="call_createSubpackageByQname_5549669319190670441#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)V" />
+      <node id="5549669319190172826" at="37,0,40,0" concept="9" trace="call_createSubpackage_5549669319190886061#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)V" />
+      <scope id="5549669319190172826" at="13,82,14,75" />
+      <scope id="5549669319190172826" at="16,83,17,81" />
+      <scope id="5549669319190172826" at="19,76,20,77" />
+      <scope id="5549669319190172826" at="22,95,23,87" />
+      <scope id="5549669319190172826" at="25,103,26,95" />
+      <scope id="5549669319190172826" at="28,110,29,102" />
+      <scope id="5549669319190172826" at="31,103,32,95" />
+      <scope id="5549669319190172826" at="34,105,35,91" />
+      <scope id="5549669319190172826" at="37,97,38,83" />
+      <scope id="5549669319190172826" at="13,0,16,0">
+        <var name="__thisNode__" id="5549669319190172826" />
+      </scope>
+      <scope id="5549669319190172826" at="16,0,19,0">
+        <var name="__thisNode__" id="5549669319190172826" />
+      </scope>
+      <scope id="5549669319190172826" at="19,0,22,0">
+        <var name="__thisNode__" id="5549669319190172826" />
+      </scope>
+      <scope id="5549669319190172826" at="22,0,25,0">
+        <var name="__thisNode__" id="5549669319190172826" />
+        <var name="name" id="5549669319190720681" />
+      </scope>
+      <scope id="5549669319190172826" at="25,0,28,0">
+        <var name="__thisNode__" id="5549669319190172826" />
+        <var name="qname" id="5549669319190908695" />
+      </scope>
+      <scope id="5549669319190172826" at="28,0,31,0">
+        <var name="__thisNode__" id="5549669319190172826" />
+        <var name="name" id="5549669319190717541" />
+      </scope>
+      <scope id="5549669319190172826" at="31,0,34,0">
+        <var name="__thisNode__" id="5549669319190172826" />
+        <var name="name" id="5549669319191072085" />
+      </scope>
+      <scope id="5549669319190172826" at="34,0,37,0">
+        <var name="__thisNode__" id="5549669319190172826" />
+        <var name="qname" id="5549669319190677288" />
+      </scope>
+      <scope id="5549669319190172826" at="37,0,40,0">
+        <var name="__thisNode__" id="5549669319190172826" />
+        <var name="name" id="5549669319190886155" />
+      </scope>
+      <unit id="5549669319190172826" at="11,0,41,0" name="PythonMPS.behavior.Package_Behavior" />
+    </file>
+    <file name="Package__BehaviorDescriptor.java">
+      <node id="5549669319190172826" at="31,0,32,0" concept="8" trace="CONCEPT" />
+      <node id="5549669319190172826" at="32,0,33,0" concept="8" trace="REGISTRY" />
+      <node id="5549669319190172826" at="34,0,35,0" concept="8" trace="importContents_id4O4oHuBdHit" />
+      <node id="5549669319190172826" at="35,0,36,0" concept="8" trace="qualifiedName_id4O4oHuBfhpJ" />
+      <node id="5549669319190172826" at="36,0,37,0" concept="8" trace="nbOfLevel_id4O4oHuBfDMu" />
+      <node id="5549669319190172826" at="37,0,38,0" concept="8" trace="getSubpackage_id4O4oHuBfMhF" />
+      <node id="5549669319190172826" at="38,0,39,0" concept="8" trace="getSubpackageByQname_id4O4oHuBgwVV" />
+      <node id="5549669319190172826" at="39,0,40,0" concept="8" trace="getOrCreateSubpackageByQname_id4O4oHuBfLxK" />
+      <node id="5549669319190172826" at="40,0,41,0" concept="8" trace="getOrCreateSubpackage_id4O4oHuBh8P5" />
+      <node id="5549669319190172826" at="41,0,42,0" concept="8" trace="createSubpackageByQname_id4O4oHuBfALD" />
+      <node id="5549669319190172826" at="42,0,43,0" concept="8" trace="createSubpackage_id4O4oHuBgrqH" />
+      <node id="5549669319190172826" at="44,0,45,0" concept="8" trace="BH_METHODS" />
+      <node id="5549669319190616457" at="49,85,50,212" concept="2" />
+      <node id="5549669319190558967" at="50,212,51,65" concept="2" />
+      <node id="5549669319190286782" at="51,65,52,69" concept="2" />
+      <node id="5549669319190615277" at="52,69,53,183" concept="2" />
+      <node id="5549669319190698911" at="56,205,57,430" concept="6" />
+      <node id="5549669319190582966" at="58,5,59,169" concept="6" />
+      <node id="5549669319190686644" at="62,205,63,270" concept="6" />
+      <node id="5549669319190785801" at="64,5,65,0" concept="7" />
+      <node id="5549669319190692358" at="65,0,66,13" concept="6" />
+      <node id="5549669319190746084" at="70,39,71,484" concept="6" />
+      <node id="5549669319190908679" at="77,39,78,404" concept="6" />
+      <node id="5549669319190720947" at="83,108,84,99" concept="2" />
+      <node id="5549669319190720980" at="85,5,86,101" concept="6" />
+      <node id="5549669319191072074" at="89,101,90,92" concept="2" />
+      <node id="5549669319191072081" at="91,5,92,94" concept="6" />
+      <node id="5549669319190697939" at="95,114,96,163" concept="12" />
+      <node id="5549669319190693247" at="97,5,98,46" concept="5" />
+      <node id="5549669319190841872" at="98,46,99,0" concept="7" />
+      <node id="5549669319190772102" at="99,0,100,0" concept="7" />
+      <node id="5549669319190775249" at="101,104,102,0" concept="7" />
+      <node id="5549669319190894042" at="102,0,103,113" concept="2" />
+      <node id="5549669319190721125" at="104,12,105,278" concept="2" />
+      <node id="5549669319190886109" at="108,100,109,213" concept="5" />
+      <node id="5549669319190886115" at="109,213,110,157" concept="2" />
+      <node id="5549669319190886126" at="110,157,111,224" concept="2" />
+      <node id="5549669319190172826" at="114,45,115,20" concept="10" />
+      <node id="5549669319190172826" at="119,114,120,21" concept="2" />
+      <node id="5549669319190172826" at="124,114,125,49" concept="5" />
+      <node id="5549669319190172826" at="126,26,127,56" concept="12" />
+      <node id="5549669319190172826" at="130,13,131,43" concept="2" />
+      <node id="5549669319190172826" at="131,43,132,20" concept="6" />
+      <node id="5549669319190172826" at="133,13,134,64" concept="6" />
+      <node id="5549669319190172826" at="135,13,136,61" concept="6" />
+      <node id="5549669319190172826" at="137,13,138,87" concept="6" />
+      <node id="5549669319190172826" at="139,13,140,94" concept="6" />
+      <node id="5549669319190172826" at="141,13,142,102" concept="6" />
+      <node id="5549669319190172826" at="143,13,144,95" concept="6" />
+      <node id="5549669319190172826" at="145,13,146,76" concept="2" />
+      <node id="5549669319190172826" at="146,76,147,20" concept="6" />
+      <node id="5549669319190172826" at="148,13,149,69" concept="2" />
+      <node id="5549669319190172826" at="149,69,150,20" concept="6" />
+      <node id="5549669319190172826" at="151,14,152,58" concept="12" />
+      <node id="5549669319190172826" at="157,128,158,49" concept="5" />
+      <node id="5549669319190172826" at="159,26,160,56" concept="12" />
+      <node id="5549669319190172826" at="163,14,164,58" concept="12" />
+      <node id="5549669319190172826" at="170,48,171,22" concept="6" />
+      <node id="5549669319190172826" at="176,40,177,19" concept="6" />
+      <node id="5549669319190172826" at="46,0,48,0" concept="9" trace="___init___#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="5549669319190713788" at="104,10,106,5" concept="0" />
+      <node id="5549669319190698909" at="55,86,58,5" concept="3" />
+      <node id="5549669319190685098" at="61,79,64,5" concept="3" />
+      <node id="5549669319190745664" at="70,0,73,0" concept="4" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="5549669319190908677" at="77,0,80,0" concept="4" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="5549669319190720687" at="82,113,85,5" concept="3" />
+      <node id="5549669319191072072" at="88,106,91,5" concept="3" />
+      <node id="5549669319190696477" at="94,108,97,5" concept="3" />
+      <node id="5549669319190172826" at="114,0,117,0" concept="1" trace="Package__BehaviorDescriptor#()V" />
+      <node id="5549669319190172826" at="125,49,128,5" concept="3" />
+      <node id="5549669319190172826" at="158,49,161,5" concept="3" />
+      <node id="5549669319190172826" at="118,0,122,0" concept="4" trace="initNode#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/core/aspects/behaviour/api/SConstructor;[Ljava/lang/Object;)V" />
+      <node id="5549669319190172826" at="161,5,165,5" concept="11" />
+      <node id="5549669319190724046" at="68,104,73,133" concept="6" />
+      <node id="5549669319190908670" at="75,112,80,133" concept="6" />
+      <node id="5549669319190172826" at="108,0,113,0" concept="9" trace="createSubpackage_id4O4oHuBgrqH#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)V" />
+      <node id="5549669319190172826" at="168,0,173,0" concept="4" trace="getDeclaredMethods#()Ljava/util/List;" />
+      <node id="5549669319190172826" at="174,0,179,0" concept="4" trace="getConcept#()Lorg/jetbrains/mps/openapi/language/SAbstractConcept;" />
+      <node id="5549669319190172826" at="49,0,55,0" concept="9" trace="importContents_id4O4oHuBdHit#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="5549669319190172826" at="55,0,61,0" concept="9" trace="qualifiedName_id4O4oHuBfhpJ#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="5549669319190172826" at="82,0,88,0" concept="9" trace="getOrCreateSubpackageByQname_id4O4oHuBfLxK#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)Lorg/jetbrains/mps/openapi/model/SNode;" />
+      <node id="5549669319190172826" at="88,0,94,0" concept="9" trace="getOrCreateSubpackage_id4O4oHuBh8P5#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)Lorg/jetbrains/mps/openapi/model/SNode;" />
+      <node id="5549669319190695783" at="100,0,106,5" concept="3" />
+      <node id="5549669319190172826" at="61,0,68,0" concept="9" trace="nbOfLevel_id4O4oHuBfDMu#(Lorg/jetbrains/mps/openapi/model/SNode;)I" />
+      <node id="5549669319190172826" at="68,0,75,0" concept="9" trace="getSubpackage_id4O4oHuBfMhF#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)Lorg/jetbrains/mps/openapi/model/SNode;" />
+      <node id="5549669319190172826" at="75,0,82,0" concept="9" trace="getSubpackageByQname_id4O4oHuBgwVV#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)Lorg/jetbrains/mps/openapi/model/SNode;" />
+      <node id="5549669319190172826" at="156,0,167,0" concept="4" trace="invokeSpecial0#(Lorg/jetbrains/mps/openapi/language/SAbstractConcept;Ljetbrains/mps/core/aspects/behaviour/api/SMethod;[Ljava/lang/Object;)null" />
+      <node id="5549669319190172826" at="94,0,108,0" concept="9" trace="createSubpackageByQname_id4O4oHuBfALD#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)V" />
+      <node id="5549669319190172826" at="128,5,153,5" concept="11" />
+      <node id="5549669319190172826" at="123,0,155,0" concept="4" trace="invokeSpecial0#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/core/aspects/behaviour/api/SMethod;[Ljava/lang/Object;)null" />
+      <scope id="5549669319190172826" at="46,63,46,63" />
+      <scope id="5549669319190698910" at="56,205,57,430" />
+      <scope id="5549669319190685099" at="62,205,63,270" />
+      <scope id="5549669319190745665" at="70,39,71,484" />
+      <scope id="5549669319190908678" at="77,39,78,404" />
+      <scope id="5549669319190720688" at="83,108,84,99" />
+      <scope id="5549669319191072073" at="89,101,90,92" />
+      <scope id="5549669319190696479" at="95,114,96,163" />
+      <scope id="5549669319190713789" at="104,12,105,278" />
+      <scope id="5549669319190172826" at="114,45,115,20" />
+      <scope id="5549669319190172826" at="119,114,120,21" />
+      <scope id="5549669319190172826" at="126,26,127,56" />
+      <scope id="5549669319190172826" at="133,13,134,64" />
+      <scope id="5549669319190172826" at="135,13,136,61" />
+      <scope id="5549669319190172826" at="137,13,138,87" />
+      <scope id="5549669319190172826" at="139,13,140,94" />
+      <scope id="5549669319190172826" at="141,13,142,102" />
+      <scope id="5549669319190172826" at="143,13,144,95" />
+      <scope id="5549669319190172826" at="151,14,152,58" />
+      <scope id="5549669319190172826" at="159,26,160,56" />
+      <scope id="5549669319190172826" at="163,14,164,58" />
+      <scope id="5549669319190172826" at="170,48,171,22" />
+      <scope id="5549669319190172826" at="176,40,177,19" />
+      <scope id="5549669319190172826" at="46,0,48,0">
+        <var name="__thisNode__" id="5549669319190172826" />
+      </scope>
+      <scope id="5549669319190695785" at="101,104,103,113" />
+      <scope id="5549669319190172826" at="130,13,132,20" />
+      <scope id="5549669319190172826" at="145,13,147,20" />
+      <scope id="5549669319190172826" at="148,13,150,20" />
+      <scope id="5549669319190745664" at="70,0,73,0">
+        <var name="it" id="5549669319190745664" />
+      </scope>
+      <scope id="5549669319190908677" at="77,0,80,0">
+        <var name="it" id="5549669319190908677" />
+      </scope>
+      <scope id="5549669319190886063" at="108,100,111,224">
+        <var name="subpack" id="5549669319190886110" />
+      </scope>
+      <scope id="5549669319190172826" at="114,0,117,0" />
+      <scope id="5549669319190172831" at="49,85,53,183" />
+      <scope id="5549669319190582897" at="55,86,59,169" />
+      <scope id="5549669319190714482" at="82,113,86,101" />
+      <scope id="5549669319191072071" at="88,106,92,94" />
+      <scope id="5549669319190172826" at="118,0,122,0">
+        <var name="constructor" id="5549669319190172826" />
+        <var name="node" id="5549669319190172826" />
+        <var name="parameters" id="5549669319190172826" />
+      </scope>
+      <scope id="5549669319190682784" at="61,79,66,13" />
+      <scope id="5549669319190717549" at="68,104,73,133" />
+      <scope id="5549669319190908669" at="75,112,80,133" />
+      <scope id="5549669319190172826" at="108,0,113,0">
+        <var name="__thisNode__" id="5549669319190172826" />
+        <var name="name" id="5549669319190886155" />
+      </scope>
+      <scope id="5549669319190172826" at="168,0,173,0" />
+      <scope id="5549669319190172826" at="174,0,179,0" />
+      <scope id="5549669319190172826" at="49,0,55,0">
+        <var name="__thisNode__" id="5549669319190172826" />
+      </scope>
+      <scope id="5549669319190172826" at="55,0,61,0">
+        <var name="__thisNode__" id="5549669319190172826" />
+      </scope>
+      <scope id="5549669319190172826" at="82,0,88,0">
+        <var name="__thisNode__" id="5549669319190172826" />
+        <var name="name" id="5549669319190717541" />
+      </scope>
+      <scope id="5549669319190172826" at="88,0,94,0">
+        <var name="__thisNode__" id="5549669319190172826" />
+        <var name="name" id="5549669319191072085" />
+      </scope>
+      <scope id="5549669319190172826" at="61,0,68,0">
+        <var name="__thisNode__" id="5549669319190172826" />
+      </scope>
+      <scope id="5549669319190172826" at="68,0,75,0">
+        <var name="__thisNode__" id="5549669319190172826" />
+        <var name="name" id="5549669319190720681" />
+      </scope>
+      <scope id="5549669319190172826" at="75,0,82,0">
+        <var name="__thisNode__" id="5549669319190172826" />
+        <var name="qname" id="5549669319190908695" />
+      </scope>
+      <scope id="5549669319190172826" at="157,128,165,5">
+        <var name="methodIndex" id="5549669319190172826" />
+      </scope>
+      <scope id="5549669319190172826" at="156,0,167,0">
+        <var name="concept" id="5549669319190172826" />
+        <var name="method" id="5549669319190172826" />
+        <var name="parameters" id="5549669319190172826" />
+      </scope>
+      <scope id="5549669319190670443" at="94,108,106,5">
+        <var name="level" id="5549669319190693250" />
+      </scope>
+      <scope id="5549669319190172826" at="94,0,108,0">
+        <var name="__thisNode__" id="5549669319190172826" />
+        <var name="qname" id="5549669319190677288" />
+      </scope>
+      <scope id="5549669319190172826" at="124,114,153,5">
+        <var name="methodIndex" id="5549669319190172826" />
+      </scope>
+      <scope id="5549669319190172826" at="123,0,155,0">
+        <var name="method" id="5549669319190172826" />
+        <var name="node" id="5549669319190172826" />
+        <var name="parameters" id="5549669319190172826" />
+      </scope>
+      <unit id="5549669319190745664" at="69,246,73,5" name="PythonMPS.behavior.Package__BehaviorDescriptor$1" />
+      <unit id="5549669319190908677" at="76,246,80,5" name="PythonMPS.behavior.Package__BehaviorDescriptor$2" />
+      <unit id="5549669319190172826" at="30,0,180,0" name="PythonMPS.behavior.Package__BehaviorDescriptor" />
+    </file>
+  </root>
+</debug-info>
+

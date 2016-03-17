@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ForStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.TryCatchStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.WhileStatement" />
+  <root nodeRef="r:610d00dd-c3e2-44f0-a5f1-492385c784ae(PythonRuntime.code)/5549669319189917918">
+    <file name="PythonPackagesImporter.java">
+      <node id="5549669319190309337" at="24,74,25,74" concept="4" />
+      <node id="5549669319190328538" at="25,74,26,0" concept="7" />
+      <node id="5549669319190329405" at="26,0,27,90" concept="4" />
+      <node id="5549669319190329414" at="27,90,28,85" concept="4" />
+      <node id="5549669319190329431" at="28,85,29,0" concept="7" />
+      <node id="5549669319190329432" at="29,0,30,40" concept="6" />
+      <node id="5549669319190329434" at="30,40,31,73" concept="4" />
+      <node id="5549669319190329443" at="31,73,32,22" concept="0" />
+      <node id="5549669319190329449" at="32,22,33,38" concept="0" />
+      <node id="5549669319190432510" at="34,69,35,63" concept="0" />
+      <node id="5549669319190328971" at="36,5,37,0" concept="7" />
+      <node id="5549669319190306796" at="37,0,38,50" concept="6" />
+      <node id="5549669319190306798" at="38,50,39,38" concept="4" />
+      <node id="5549669319190306804" at="40,9,41,32" concept="4" />
+      <node id="5549669319190306813" at="41,32,42,19" concept="0" />
+      <node id="5549669319190306817" at="42,19,43,0" concept="7" />
+      <node id="5549669319190306818" at="43,0,44,90" concept="4" />
+      <node id="5549669319190306828" at="44,90,45,23" concept="4" />
+      <node id="5549669319190316120" at="46,47,47,55" concept="0" />
+      <node id="5549669319190306863" at="48,7,49,0" concept="7" />
+      <node id="5549669319190306864" at="49,0,50,95" concept="4" />
+      <node id="5549669319190306874" at="50,95,51,28" concept="4" />
+      <node id="5549669319190306888" at="52,57,53,55" concept="6" />
+      <node id="5549669319190306890" at="53,55,54,38" concept="0" />
+      <node id="5549669319190306895" at="55,7,56,0" concept="7" />
+      <node id="5549669319190306898" at="57,29,58,41" concept="0" />
+      <node id="5549669319190306906" at="59,38,60,41" concept="0" />
+      <node id="5549669319190311504" at="61,5,62,18" concept="5" />
+      <node id="5549669319190670275" at="66,185,67,31" concept="0" />
+      <node id="5549669319190397541" at="68,5,69,0" concept="7" />
+      <node id="5549669319190677850" at="72,268,73,124" concept="0" />
+      <node id="5549669319189923933" at="77,54,78,49" concept="0" />
+      <node id="5549669319190178103" at="78,49,79,216" concept="0" />
+      <node id="5549669319190497309" at="79,216,80,112" concept="4" />
+      <node id="5549669319190505740" at="82,46,83,30" concept="5" />
+      <node id="5549669319190306842" at="86,37,87,212" concept="4" />
+      <node id="5549669319190306848" at="87,212,88,189" concept="0" />
+      <node id="5549669319190306856" at="88,189,89,227" concept="0" />
+      <node id="5549669319190420690" at="33,38,36,5" concept="1" />
+      <node id="5549669319190306832" at="45,23,48,7" concept="9" />
+      <node id="5549669319190397555" at="65,49,68,5" concept="2" />
+      <node id="5549669319190403784" at="71,45,74,5" concept="2" />
+      <node id="5549669319190505486" at="82,0,85,0" concept="3" trace="compare#(Ljava/lang/String;Ljava/lang/String;)I" />
+      <node id="5549669319190306878" at="51,28,55,7" concept="9" />
+      <node id="5549669319190403770" at="71,0,76,0" concept="3" trace="importSubPackages#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="5549669319190499563" at="80,112,85,30" concept="0" />
+      <node id="5549669319190322729" at="85,30,90,5" concept="2" />
+      <node id="5549669319190277610" at="65,0,71,0" concept="3" trace="importPackageContents#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="5549669319189923859" at="77,0,92,0" concept="3" trace="importPackages#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="5549669319190306802" at="39,38,61,5" concept="8" />
+      <node id="5549669319190305775" at="24,0,64,0" concept="3" trace="runScript#(Ljava/lang/String;Ljava/util/List;)Ljava/util/List;" />
+      <scope id="5549669319190420692" at="34,69,35,63" />
+      <scope id="5549669319190306841" at="46,47,47,55" />
+      <scope id="5549669319190306896" at="57,0,58,41">
+        <var name="e" id="5549669319190306902" />
+      </scope>
+      <scope id="5549669319190306897" at="57,29,58,41" />
+      <scope id="5549669319190306904" at="59,0,60,41">
+        <var name="e" id="5549669319190306910" />
+      </scope>
+      <scope id="5549669319190306905" at="59,38,60,41" />
+      <scope id="5549669319190397557" at="66,185,67,31" />
+      <scope id="5549669319190403786" at="72,268,73,124" />
+      <scope id="5549669319190505487" at="82,46,83,30" />
+      <scope id="5549669319190306887" at="52,57,54,38" />
+      <scope id="5549669319190420690" at="33,38,36,5">
+        <var name="i" id="5549669319190420693" />
+      </scope>
+      <scope id="5549669319190397555" at="65,49,68,5">
+        <var name="line" id="5549669319190397556" />
+      </scope>
+      <scope id="5549669319190403771" at="71,45,74,5" />
+      <scope id="5549669319190403784" at="71,45,74,5">
+        <var name="line" id="5549669319190403785" />
+      </scope>
+      <scope id="5549669319190505486" at="82,0,85,0">
+        <var name="a" id="5549669319190505486" />
+        <var name="b" id="5549669319190505486" />
+      </scope>
+      <scope id="5549669319190322733" at="86,37,89,227">
+        <var name="pack" id="5549669319190306843" />
+      </scope>
+      <scope id="5549669319190277613" at="65,49,69,0" />
+      <scope id="5549669319190403770" at="71,0,76,0">
+        <var name="pack" id="5549669319190403813" />
+      </scope>
+      <scope id="5549669319190322729" at="85,30,90,5">
+        <var name="line" id="5549669319190322731" />
+      </scope>
+      <scope id="5549669319190277610" at="65,0,71,0">
+        <var name="pack" id="5549669319190278577" />
+      </scope>
+      <scope id="5549669319189923862" at="77,54,90,5">
+        <var name="topPackages" id="5549669319190497312" />
+      </scope>
+      <scope id="5549669319189923859" at="77,0,92,0">
+        <var name="packagesImporter" id="5549669319189943444" />
+      </scope>
+      <scope id="5549669319190306803" at="40,9,56,0">
+        <var name="bfr" id="5549669319190306819" />
+        <var name="bfrError" id="5549669319190306865" />
+        <var name="line" id="5549669319190306829" />
+        <var name="lineErrir" id="5549669319190306875" />
+        <var name="pr" id="5549669319190306805" />
+      </scope>
+      <scope id="5549669319190305778" at="24,74,62,18">
+        <var name="cmd" id="5549669319190329435" />
+        <var name="output" id="5549669319190309340" />
+        <var name="pythonScriptsDir" id="5549669319190329406" />
+        <var name="rt" id="5549669319190306799" />
+        <var name="script" id="5549669319190329415" />
+      </scope>
+      <scope id="5549669319190305775" at="24,0,64,0">
+        <var name="params" id="5549669319190411301" />
+        <var name="scriptName" id="5549669319190306778" />
+      </scope>
+      <unit id="5549669319190505486" at="81,62,85,5" name="PythonRuntime.code.PythonPackagesImporter$1" />
+      <unit id="5549669319189917918" at="22,0,93,0" name="PythonRuntime.code.PythonPackagesImporter" />
+    </file>
+  </root>
+</debug-info>
+
